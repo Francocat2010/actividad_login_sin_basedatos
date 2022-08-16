@@ -86,6 +86,7 @@
             this.btnIngresar_Click.TabIndex = 5;
             this.btnIngresar_Click.Text = "Ingresar";
             this.btnIngresar_Click.UseVisualStyleBackColor = true;
+            this.btnIngresar_Click.Click += new System.EventHandler(this.label1_Click);
             // 
             // frmLogin
             // 
